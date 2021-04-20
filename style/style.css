@@ -1,2 +1,9 @@
 html{box-sizing: border-box;
 }
+
+body{
+  background-color: rgb(39, 208, 228);
+}
+header{
+  background-color: rgb(217, 88, 25);
+}
