@@ -7,6 +7,11 @@ body{
 header{
   background-color: rgb(222, 88, 25);
 }
+
 footer{
   background-color: rgb(91, 20, 194);
+
+section{
+  background-color: rgb(17, 18, 10);
+>>>>>>> 0074f6c1c68ad68079cc168ec867167df49a53ff
 }
